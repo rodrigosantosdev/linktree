@@ -1,5 +1,5 @@
 # um example de linktree
 
-<p>só clonar e alterar os dados e os links, subir e ser feliz.</p>
+<p align="center">só clonar e alterar os dados e os links, subir e ser feliz.</p>
 
-![Screenshot](screenshot.png)
+<img alt="LinkTree" title="#LinkTree" src="screenshot.png" />
